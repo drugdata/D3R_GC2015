@@ -1,0 +1,6 @@
+Dataset_ID,FEP_set_1_hsp90_Sep_9_2015
+hsp90_80,Nc1nc(cc(n1)c2ccc(Cl)cc2Cl)c3cocc3
+hsp90_81,CC(=O)c1ccccc1c2cc(nc(N)n2)c3ccc(Cl)cc3Cl
+hsp90_82,Cc1ccccc1c2cc(nc(N)n2)c3ccc(Cl)cc3Cl
+hsp90_83,CCOc1cccc(c1)c2cc(nc(N)n2)c3ccc(Cl)cc3Cl
+hsp90_84,COc1ccc(c(OC)c1)c2cc(nc(N)n2)c3ccc(Cl)cc3Cl

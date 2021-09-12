@@ -1,0 +1,11 @@
+Dataset_ID,FEP_set_3_hsp90_Sep_9_2015
+hsp90_10,Oc1ccccc1c2cc(N3C(=O)Nc4ccccc34)c(O)cc2O
+hsp90_11,Oc1cc(O)c(cc1N2C(=O)Nc3ccccc23)c4ccc(Cl)cc4
+hsp90_15,CC(C)c1ccc(O)c(c1)c2cc(N3C(=O)Nc4cc(ccc34)C(F)(F)F)c(O)cc2O
+hsp90_19,Oc1cc(O)c(cc1Cl)N2C(=O)Nc3ccc(cc23)c4ccccc4
+hsp90_21,Oc1cc(O)c(cc1N2C(=O)Nc3cc(ccc23)C(F)(F)F)c4ccc(Cl)cc4Cl
+hsp90_23,Oc1cc(O)c(cc1N2C(=O)Nc3ccccc23)c4ccnc5ccccc45
+hsp90_26,Oc1cc(O)c(cc1N2C(=O)Nc3ccccc23)c4ccc(Cl)cc4Cl
+hsp90_28,COc1ccccc1c2cc(N3C(=O)Nc4ccccc34)c(O)cc2O
+hsp90_34,Oc1cc(O)c(cc1N2C(=O)Nc3ccccc23)c4cccnc4O
+hsp90_61,CC1(O)Oc2cc(O)c(cc2c3ccccc13)N4C(=O)Nc5ccccc45
